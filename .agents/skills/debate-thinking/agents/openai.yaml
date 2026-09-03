@@ -1,0 +1,4 @@
+interface:
+  display_name: "DEBATE thinking"
+  short_description: "DEBATE workflow component"
+  default_prompt: "Use $debate-thinking for an active DEBATE discussion."

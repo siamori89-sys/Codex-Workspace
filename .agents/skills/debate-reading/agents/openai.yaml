@@ -1,0 +1,4 @@
+interface:
+  display_name: "DEBATE reading"
+  short_description: "DEBATE workflow component"
+  default_prompt: "Use $debate-reading for an active DEBATE discussion."
