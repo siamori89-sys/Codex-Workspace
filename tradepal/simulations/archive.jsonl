@@ -1,0 +1,11 @@
+{"id": "archive-2026-09-04T14:05:32.499250+00:00", "timestamp": "2026-09-04T14:05:32.499385+00:00", "role": "USER", "text": "I want arrows showing a moving-average crossover."}
+{"id": "archive-2026-09-04T14:05:32.500507+00:00", "timestamp": "2026-09-04T14:05:32.500519+00:00", "role": "ARCHITECT", "text": "Discovery: visualization suggests an Indicator; contract awaits approval."}
+{"id": "archive-2026-09-04T14:05:32.501117+00:00", "timestamp": "2026-09-04T14:05:32.501125+00:00", "role": "USER", "text": "I approve the indicator contract."}
+{"id": "archive-2026-09-04T14:05:32.501628+00:00", "timestamp": "2026-09-04T14:05:32.501634+00:00", "role": "ENGINEER", "text": "Simulated build: crossover indicator version sim-v1."}
+{"id": "archive-2026-09-04T14:05:32.502101+00:00", "timestamp": "2026-09-04T14:05:32.502107+00:00", "role": "AUDITOR", "text": "Simulated validation: static checks passed; real compilation unavailable."}
+{"id": "archive-2026-09-04T14:05:32.502591+00:00", "timestamp": "2026-09-04T14:05:32.502598+00:00", "role": "USER", "text": "The arrows are too noisy; add a trend filter."}
+{"id": "archive-2026-09-04T14:05:32.503062+00:00", "timestamp": "2026-09-04T14:05:32.503068+00:00", "role": "SAGE", "text": "OBSERVED: user values signal selectivity over unfiltered crossover frequency."}
+{"id": "archive-2026-09-04T14:05:32.503676+00:00", "timestamp": "2026-09-04T14:05:32.503684+00:00", "role": "ARCHITECT", "text": "Impact: PATCH; updated contract awaits approval for trend filter."}
+{"id": "archive-2026-09-04T14:05:32.504358+00:00", "timestamp": "2026-09-04T14:05:32.504367+00:00", "role": "USER", "text": "I approve the updated contract."}
+{"id": "archive-2026-09-04T14:05:32.504892+00:00", "timestamp": "2026-09-04T14:05:32.504899+00:00", "role": "ENGINEER", "text": "Simulated build: trend-filtered version sim-v2."}
+{"id": "archive-2026-09-04T14:05:32.505367+00:00", "timestamp": "2026-09-04T14:05:32.505373+00:00", "role": "AUDITOR", "text": "Simulated validation: complete-program static review passed; real compilation unavailable."}
